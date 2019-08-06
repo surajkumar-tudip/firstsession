@@ -1,2 +1,3 @@
 Name: Suraj Kumar
-Address: Pune
+Address: ODISHA
+pin: 752030
